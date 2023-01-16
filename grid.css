@@ -1,0 +1,34 @@
+.container {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 1fr 2fr 1fr ;
+}
+
+.navigation
+
+.main-image > img {
+    height: 400px;
+    width: 500px;
+}
+
+.container-left {
+    display: grid;
+    grid-template-rows: 2fr 1fr;
+    grid-template-columns: auto;
+}
+
+.container-right {
+
+}
+
+.main-image {
+    grid-column: 
+}
+
+.article {
+
+}
+
+.cards {
+    grid-area: footer;
+}
